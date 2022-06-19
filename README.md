@@ -8,15 +8,19 @@ We add an additional filter to sort the results by release date (releaseDate in 
 ## User Interface:
 Main Page:
 <br>
-<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg"/>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Let-s-Go-the-Movies-App/blob/main/main_page.jpg"/>
 <br>
-Add favorite places:
+Add Filter:
 <br>
-<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/favorite_places.jpg"/>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Let-s-Go-the-Movies-App/blob/main/filter.jpg"/>
 <br>
-Deatils:
+Result after filter:
 <br>
-<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/zooming.jpg"/>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Let-s-Go-the-Movies-App/blob/main/result.jpg"/>
+<br>
+Movie details:
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Let-s-Go-the-Movies-App/blob/main/details.jpg"/>
 <br>
 
 ## Process:
